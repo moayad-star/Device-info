@@ -34,3 +34,5 @@ to start :
 ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 Enjoy (:
+Supported devices
+kali linux and 
